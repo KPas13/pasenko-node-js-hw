@@ -1,5 +1,14 @@
-import color from './color'
-import fruit from './fruit'
+import color from './color.js';
+import fruit from './fruit.js'
+import logger from "./lib/logger/logger.js";
+import {add} from './handler.js';
 
-console.log(color);
-console.log(fruit);
+const log = logger.getLogger('app.js');
+
+log.info(color);
+log.warn(fruit);
+log.error("ERROR occur: My log");
+log.debug(color);
+log.trace(fruit);
+
+add(3,5);
