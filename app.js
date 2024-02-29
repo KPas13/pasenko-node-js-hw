@@ -1,6 +1,6 @@
 import color from './color.js';
 import fruit from './fruit.js'
-import logger from "./lib/logger/logger.js";
+import logger from './lib/logger/logger.js';
 import {add} from './handler.js';
 
 const log = logger.getLogger('app.js');
