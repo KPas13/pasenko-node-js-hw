@@ -1,1 +1,8 @@
-{"date":1709649263367,"level":"ERROR","category":"app.js","message":"\"ERROR occur: My log\""}
+{"date":1710102353669,"level":"INFO","category":"app.js","message":[{"red":"red","yellow":"yellow"}]}
+{"date":1710102353669,"level":"INFO","category":"app.js","message":["Data",{"1":"1"},"User:",{"name":"Kate","age":19},"Sdf","test"]}
+{"date":1710102353669,"level":"WARN","category":"app.js","message":[{"apple":"apple","banana":"banana"}]}
+{"date":1710102353669,"level":"ERROR","category":"app.js","message":["ERROR occur: My log"]}
+{"date":1710102353670,"level":"DEBUG","category":"app.js","message":[{"red":"red","yellow":"yellow"}]}
+{"date":1710102353670,"level":"TRACE","category":"app.js","message":[{"apple":"apple","banana":"banana"}]}
+{"date":1710102353670,"level":"INFO","category":"handler.js","message":["First operand 3"]}
+{"date":1710102353670,"level":"INFO","category":"handler.js","message":["Second operand 5"]}
