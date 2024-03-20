@@ -1,0 +1,88 @@
+{"date":1710949448995,"level":"INFO","category":"app.js","message":[{"red":"red","yellow":"yellow"}]}
+{"date":1710949448996,"level":"INFO","category":"app.js","message":["Data",{"1":"1"},"User:",{"name":"Kate","age":19},"Sdf","test"]}
+{"date":1710949448996,"level":"WARN","category":"app.js","message":[{"apple":"apple","banana":"banana"}]}
+{"date":1710949448996,"level":"ERROR","category":"app.js","message":["ERROR occur: My log"]}
+{"date":1710949448996,"level":"DEBUG","category":"app.js","message":[{"red":"red","yellow":"yellow"}]}
+{"date":1710949448996,"level":"TRACE","category":"app.js","message":[{"apple":"apple","banana":"banana"}]}
+{"date":1710949448996,"level":"INFO","category":"handler.js","message":["First operand 3"]}
+{"date":1710949448996,"level":"INFO","category":"handler.js","message":["Second operand 5"]}
+{"date":1710949487327,"level":"INFO","category":"app.js","message":[{"red":"red","yellow":"yellow"}]}
+{"date":1710949487328,"level":"INFO","category":"app.js","message":["Data",{"1":"1"},"User:",{"name":"Kate","age":19},"Sdf","test"]}
+{"date":1710949487328,"level":"WARN","category":"app.js","message":[{"apple":"apple","banana":"banana"}]}
+{"date":1710949487329,"level":"ERROR","category":"app.js","message":["ERROR occur: My log"]}
+{"date":1710949487329,"level":"DEBUG","category":"app.js","message":[{"red":"red","yellow":"yellow"}]}
+{"date":1710949487329,"level":"TRACE","category":"app.js","message":[{"apple":"apple","banana":"banana"}]}
+{"date":1710949487329,"level":"INFO","category":"handler.js","message":["First operand 3"]}
+{"date":1710949487329,"level":"INFO","category":"handler.js","message":["Second operand 5"]}
+{"date":1710949524301,"level":"INFO","category":"app.js","message":[{"red":"red","yellow":"yellow"}]}
+{"date":1710949524301,"level":"INFO","category":"app.js","message":["Data",{"1":"1"},"User:",{"name":"Kate","age":19},"Sdf","test"]}
+{"date":1710949524302,"level":"WARN","category":"app.js","message":[{"apple":"apple","banana":"banana"}]}
+{"date":1710949524302,"level":"ERROR","category":"app.js","message":["ERROR occur: My log"]}
+{"date":1710949524302,"level":"DEBUG","category":"app.js","message":[{"red":"red","yellow":"yellow"}]}
+{"date":1710949524302,"level":"TRACE","category":"app.js","message":[{"apple":"apple","banana":"banana"}]}
+{"date":1710949524302,"level":"INFO","category":"handler.js","message":["First operand 3"]}
+{"date":1710949524302,"level":"INFO","category":"handler.js","message":["Second operand 5"]}
+{"date":1710949983580,"level":"INFO","category":"app.js","message":[{"red":"red","yellow":"yellow"}]}
+{"date":1710949983580,"level":"INFO","category":"app.js","message":["Data",{"1":"1"},"User:",{"name":"Kate","age":19},"Sdf","test"]}
+{"date":1710949983580,"level":"WARN","category":"app.js","message":[{"apple":"apple","banana":"banana"}]}
+{"date":1710949983580,"level":"ERROR","category":"app.js","message":["ERROR occur: My log"]}
+{"date":1710949983580,"level":"DEBUG","category":"app.js","message":[{"red":"red","yellow":"yellow"}]}
+{"date":1710949983580,"level":"TRACE","category":"app.js","message":[{"apple":"apple","banana":"banana"}]}
+{"date":1710949983580,"level":"INFO","category":"handler.js","message":["First operand 3"]}
+{"date":1710949983581,"level":"INFO","category":"handler.js","message":["Second operand 5"]}
+{"date":1710958018643,"level":"INFO","category":"app.js","message":[{"red":"red","yellow":"yellow"}]}
+{"date":1710958018643,"level":"INFO","category":"app.js","message":["Data",{"1":"1"},"User:",{"name":"Kate","age":19},"Sdf","test"]}
+{"date":1710958018644,"level":"WARN","category":"app.js","message":[{"apple":"apple","banana":"banana"}]}
+{"date":1710958018644,"level":"ERROR","category":"app.js","message":["ERROR occur: My log"]}
+{"date":1710958018644,"level":"DEBUG","category":"app.js","message":[{"red":"red","yellow":"yellow"}]}
+{"date":1710958018644,"level":"TRACE","category":"app.js","message":[{"apple":"apple","banana":"banana"}]}
+{"date":1710958018644,"level":"INFO","category":"handler.js","message":["First operand 3"]}
+{"date":1710958018644,"level":"INFO","category":"handler.js","message":["Second operand 5"]}
+{"date":1710958216099,"level":"INFO","category":"app.js","message":[{"red":"red","yellow":"yellow"}]}
+{"date":1710958216099,"level":"INFO","category":"app.js","message":["Data",{"1":"1"},"User:",{"name":"Kate","age":19},"Sdf","test"]}
+{"date":1710958216100,"level":"WARN","category":"app.js","message":[{"apple":"apple","banana":"banana"}]}
+{"date":1710958216100,"level":"ERROR","category":"app.js","message":["ERROR occur: My log"]}
+{"date":1710958216100,"level":"DEBUG","category":"app.js","message":[{"red":"red","yellow":"yellow"}]}
+{"date":1710958216100,"level":"TRACE","category":"app.js","message":[{"apple":"apple","banana":"banana"}]}
+{"date":1710958216100,"level":"INFO","category":"handler.js","message":["First operand 3"]}
+{"date":1710958216100,"level":"INFO","category":"handler.js","message":["Second operand 5"]}
+{"date":1710958292316,"level":"INFO","category":"app.js","message":[{"red":"red","yellow":"yellow"}]}
+{"date":1710958292317,"level":"INFO","category":"app.js","message":["Data",{"1":"1"},"User:",{"name":"Kate","age":19},"Sdf","test"]}
+{"date":1710958292317,"level":"WARN","category":"app.js","message":[{"apple":"apple","banana":"banana"}]}
+{"date":1710958292317,"level":"ERROR","category":"app.js","message":["ERROR occur: My log"]}
+{"date":1710958292317,"level":"DEBUG","category":"app.js","message":[{"red":"red","yellow":"yellow"}]}
+{"date":1710958292317,"level":"TRACE","category":"app.js","message":[{"apple":"apple","banana":"banana"}]}
+{"date":1710958292317,"level":"INFO","category":"handler.js","message":["First operand 3"]}
+{"date":1710958292317,"level":"INFO","category":"handler.js","message":["Second operand 5"]}
+{"date":1710958354662,"level":"INFO","category":"app.js","message":[{"red":"red","yellow":"yellow"}]}
+{"date":1710958354662,"level":"INFO","category":"app.js","message":["Data",{"1":"1"},"User:",{"name":"Kate","age":19},"Sdf","test"]}
+{"date":1710958354663,"level":"WARN","category":"app.js","message":[{"apple":"apple","banana":"banana"}]}
+{"date":1710958354663,"level":"ERROR","category":"app.js","message":["ERROR occur: My log"]}
+{"date":1710958354663,"level":"DEBUG","category":"app.js","message":[{"red":"red","yellow":"yellow"}]}
+{"date":1710958354663,"level":"TRACE","category":"app.js","message":[{"apple":"apple","banana":"banana"}]}
+{"date":1710958354663,"level":"INFO","category":"handler.js","message":["First operand 3"]}
+{"date":1710958354663,"level":"INFO","category":"handler.js","message":["Second operand 5"]}
+{"date":1710958707808,"level":"INFO","category":"app.js","message":[{"red":"red","yellow":"yellow"}]}
+{"date":1710958707808,"level":"INFO","category":"app.js","message":["Data",{"1":"1"},"User:",{"name":"Kate","age":19},"Sdf","test"]}
+{"date":1710958707809,"level":"WARN","category":"app.js","message":[{"apple":"apple","banana":"banana"}]}
+{"date":1710958707809,"level":"ERROR","category":"app.js","message":["ERROR occur: My log"]}
+{"date":1710958707809,"level":"DEBUG","category":"app.js","message":[{"red":"red","yellow":"yellow"}]}
+{"date":1710958707809,"level":"TRACE","category":"app.js","message":[{"apple":"apple","banana":"banana"}]}
+{"date":1710958707809,"level":"INFO","category":"handler.js","message":["First operand 3"]}
+{"date":1710958707809,"level":"INFO","category":"handler.js","message":["Second operand 5"]}
+{"date":1710958796288,"level":"INFO","category":"app.js","message":[{"red":"red","yellow":"yellow"}]}
+{"date":1710958796289,"level":"INFO","category":"app.js","message":["Data",{"1":"1"},"User:",{"name":"Kate","age":19},"Sdf","test"]}
+{"date":1710958796289,"level":"WARN","category":"app.js","message":[{"apple":"apple","banana":"banana"}]}
+{"date":1710958796289,"level":"ERROR","category":"app.js","message":["ERROR occur: My log"]}
+{"date":1710958796289,"level":"DEBUG","category":"app.js","message":[{"red":"red","yellow":"yellow"}]}
+{"date":1710958796289,"level":"TRACE","category":"app.js","message":[{"apple":"apple","banana":"banana"}]}
+{"date":1710958796289,"level":"INFO","category":"handler.js","message":["First operand 3"]}
+{"date":1710958796289,"level":"INFO","category":"handler.js","message":["Second operand 5"]}
+{"date":1710958867439,"level":"INFO","category":"app.js","message":[{"red":"red","yellow":"yellow"}]}
+{"date":1710958867440,"level":"INFO","category":"app.js","message":["Data",{"1":"1"},"User:",{"name":"Kate","age":19},"Sdf","test"]}
+{"date":1710958867440,"level":"WARN","category":"app.js","message":[{"apple":"apple","banana":"banana"}]}
+{"date":1710958867440,"level":"ERROR","category":"app.js","message":["ERROR occur: My log"]}
+{"date":1710958867440,"level":"DEBUG","category":"app.js","message":[{"red":"red","yellow":"yellow"}]}
+{"date":1710958867440,"level":"TRACE","category":"app.js","message":[{"apple":"apple","banana":"banana"}]}
+{"date":1710958867440,"level":"INFO","category":"handler.js","message":["First operand 3"]}
+{"date":1710958867440,"level":"INFO","category":"handler.js","message":["Second operand 5"]}

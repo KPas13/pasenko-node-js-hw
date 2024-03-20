@@ -1,0 +1,5 @@
+{
+  "logLevel": "TRACE",
+  "appender": "console,file,network",
+  "format" : "json"
+}
