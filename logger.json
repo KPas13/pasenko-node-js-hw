@@ -1,5 +1,5 @@
 {
-  "logLevel": "ERROR",
-  "appender": "console,file",
+  "logLevel": "TRACE",
+  "appender": "console,file,network",
   "format" : "json"
 }
